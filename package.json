@@ -13,5 +13,9 @@
   "devDependencies": {
     "chai": "^4.3.6",
     "mocha": "^9.2.2"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "supertest": "^6.2.2"
   }
 }
